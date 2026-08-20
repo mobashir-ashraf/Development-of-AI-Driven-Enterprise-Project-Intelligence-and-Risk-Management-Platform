@@ -13,12 +13,12 @@ An integrated, end-to-end platform for predicting, analyzing, and mitigating pro
 ##  Key Features
 
 - **Role-Based Access**: Dedicated workflows and dashboards for IT and Non-IT users.
-- ** AI Risk Prediction**: Leverages XGBoost and CatBoost to forecast project risks and project health.
-- ** Schedule Intelligence**: Deadline forecasting, milestone tracking, and delay impact analysis.
-- ** Dependency Tracking**: Critical path analysis using NetworkX to visualize bottlenecks.
-- ** What-If Simulation**: Safely test different scenarios (e.g., budget cuts, resource constraints) without affecting production data.
-- ** RAG Assistant**: A GenAI-powered chatbot (Google GenAI + Qdrant) that acts as an intelligence advisor over uploaded project documents (PDF, DOCX).
-- ** Interactive Dashboard**: Built with Streamlit for a rich, dynamic user experience.
+- **AI Risk Prediction**: Leverages XGBoost and CatBoost to forecast project risks and project health.
+- **Schedule Intelligence**: Deadline forecasting, milestone tracking, and delay impact analysis.
+- **Dependency Tracking**: Critical path analysis using NetworkX to visualize bottlenecks.
+- **What-If Simulation**: Safely test different scenarios (e.g., budget cuts, resource constraints) without affecting production data.
+- **RAG Assistant**: A GenAI-powered chatbot (Google GenAI + Qdrant) that acts as an intelligence advisor over uploaded project documents (PDF, DOCX).
+- **Interactive Dashboard**: Built with Streamlit for a rich, dynamic user experience.
 
 ---
 
