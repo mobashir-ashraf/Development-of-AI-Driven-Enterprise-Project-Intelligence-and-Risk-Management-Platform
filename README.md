@@ -8,6 +8,8 @@
 
 An integrated, end-to-end platform for predicting, analyzing, and mitigating project risks using Machine Learning and Generative AI. This platform empowers both IT and Non-IT stakeholders with advanced schedule forecasting, what-if simulations, dependency analysis, and an intelligent RAG-powered chatbot.
 
+**Access the Live Web Application Here: https://ai-project-frontend-a3hp.onrender.com/**
+
 ---
 
 ##  Key Features
